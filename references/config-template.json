@@ -1,0 +1,14 @@
+{
+  "hardware": {
+    "ram_gb": 16,
+    "vram_gb": 8
+  },
+  "models": {
+    "deepseek-v3:16b": 16,
+    "deepseek-v3:32b": 32,
+    "qwen2.5-7b": 7,
+    "qwen2.5-14b": 14,
+    "qwen2.5-32b": 32,
+    "default": 7
+  }
+}
